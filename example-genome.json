@@ -1,0 +1,8 @@
+{
+  "perlinSpectrum": [0, 1, 3, 7, 15],
+  "colors": [
+    { "y": 0.5, "u": 0.2, "v": 0.7, "weight": 7 }
+  ],
+  "stretch": 3.14,
+  "orientation": [0, 0, -1],
+}
