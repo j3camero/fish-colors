@@ -1,6 +1,6 @@
 CC=$(CXX)
-CPPFLAGS = -I/usr/X11R6/include
-LDFLAGS = -L/usr/X11R6/lib -lm -lpthread -lX11
+CPPFLAGS = -Dcimg_display=0 -I/usr/X11R6/include
+LDFLAGS = -L/usr/X11R6/lib
 
 all: render
 
